@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Web & Mobile app development;
 - 💬 Ask me about anything, i am happy to help;
 - 📫 How to reach me: [Twitter - @lucifer955](https://twitter.com/lucifer955) , [Linkedin - nadeerakuruppu](https://www.linkedin.com/in/nadeerakuruppu/)
-- ⚡ Fun fact: Music🎼 + Memes = 😄
+- ⚡ Fun fact: Music 🎼 + Memes = 😄
 <br>
 
 **Languages and Tools:**   
