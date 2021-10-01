@@ -5,7 +5,7 @@
 
 **About Me:**  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer955&theme=dracula&hide_langs_below=1" />
-- 🔭 I’m a 3rd year CS undergraduate at Uva Wellassa University of Sri Lanka;
+- 🔭 I’m a 4th year CS undergraduate at Uva Wellassa University of Sri Lanka;
 - 🌱 I’m currently learning Web & Mobile app development;
 - 💬 Ask me about anything, i am happy to help;
 - 📫 How to reach me: [Twitter - @lucifer955](https://twitter.com/lucifer955) , [Linkedin - nadeerakuruppu](https://www.linkedin.com/in/nadeerakuruppu/)
