@@ -10,8 +10,6 @@
 - 🎶 Hobbies/Interests: I love memes and listening to different kinds of music
 <br>
 
- <img src="https://raw.githubusercontent.com/lucifer955/lucifer955/output/snake.svg" alt="Snake animation" />
-
 ###
 
 **Languages and Tools:**  
