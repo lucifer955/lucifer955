@@ -10,7 +10,7 @@
 - 🎶 Hobbies/Interests: I love memes and listening to different kinds of music
 <br>
 
- 
+ <img src="https://raw.githubusercontent.com/lucifer955/lucifer955/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -36,9 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
-
-###
-
 
 
 
