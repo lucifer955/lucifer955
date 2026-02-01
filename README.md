@@ -6,10 +6,12 @@
   />
 </div>
 
+<br/>
+
 <p align="center">
-  <sub>
-    Problem solver • Curious about how and why things work • Exploring what’s next
-  </sub>
+  <em>
+    Focused on the why and how
+  </em>
 </p>
 
 <br/>
