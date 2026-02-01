@@ -3,7 +3,7 @@ name: Update Space Shooter Game
 on:
   schedule:
     - cron: "0 0 * * *" # Daily at midnight UTC
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,10 +12,25 @@ jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: czl9707/gh-space-shooter@v1
+      - name: Generate game GIF
+        uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           output-path: "game.gif"
           strategy: "random"
+
+      - name: Update cache-busting key in README
+        run: |
+          DATE=$(date +%Y%m%d)
+          sed -i "s/game.gif?v=.*/game.gif?v=$DATE)/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add game.gif README.md
+          git commit -m "chore: update space shooter game ($DATE)" || echo "No changes to commit"
+          git push
