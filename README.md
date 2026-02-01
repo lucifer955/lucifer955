@@ -25,17 +25,6 @@
 
 ###
 
-**About Me:**
-
-- 🌱 I’m currently learning .NET & Azure
-- 💬 Ask me about .NET & Azure
-- 🎶 Hobbies/Interests: I love memes and listening to different kinds of music
-  <br>
-
-###
-
-**Languages and Tools:**
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
