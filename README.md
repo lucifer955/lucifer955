@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/lucifer955/lucifer955/main/game.gif?v=20260211)
+    src="https://raw.githubusercontent.com/lucifer955/lucifer955/main/game.gif?v=20260212)
     alt="GH Space Shooter"
     width="600"
   />
