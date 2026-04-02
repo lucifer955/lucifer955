@@ -28,7 +28,7 @@ jobs:
       - name: Update cache-busting key in README
         run: |
           DATE=$(date +%Y%m%d)
-          sed -i "s/game.gif?v=.*/game.gif?v=$DATE)/" README.md
+          sed -i "s/game\.gif?v=[^)]*/game.gif?v=$DATE/" README.md
 
       - name: Commit and push changes
         run: |
