@@ -13,18 +13,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nadeerakuruppu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/lucifer955" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/lucifer955" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://github.com/czl9707/gh-space-shooter" target="_blank">
-    <img src="https://img.shields.io/badge/Source-black?style=flat&logo=github" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeerakuruppu/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lucifer955)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/lucifer955)
+[![Source](https://img.shields.io/badge/Source-black?style=flat&logo=github)](https://github.com/czl9707/gh-space-shooter)
+
 </div>
 
 <br/>
