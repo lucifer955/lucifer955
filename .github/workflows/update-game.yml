@@ -29,7 +29,7 @@ jobs:
       - name: Update cache-busting key in README
         run: |
           DATE=$(date +%s)
-          sed -i 's|game\.gif?v=[0-9]*"|game.gif?v='"$DATE"'"|g' README.md
+          sed -i 's|game\.gif?v=[0-9]*|game.gif?v='"$DATE"'|g' README.md
 
       - name: Commit and push changes
         run: |
