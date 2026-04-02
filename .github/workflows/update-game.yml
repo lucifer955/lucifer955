@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *" # Daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,6 +14,7 @@ permissions:
 jobs:
   update-game:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -28,7 +29,7 @@ jobs:
       - name: Update cache-busting key in README
         run: |
           DATE=$(date +%Y%m%d)
-          sed -i "s|game\.gif?v=[0-9]*|game.gif?v=$DATE|" README.md
+          sed -i 's|game\.gif?v=[0-9]*"|game.gif?v='"$DATE"'"|g' README.md
 
       - name: Commit and push changes
         run: |
